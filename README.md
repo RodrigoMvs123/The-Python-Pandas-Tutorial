@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=LJTm8_IJGNY 
 
+https://raw.githubusercontent.com/RodrigoMvs123/The-Python-Pandas-Tutorial/main/README.md
+
+
+
 https://pandas.pydata.org/
 Pandas
 Is a software library written for the python programming language for data manipulation and analysis 
