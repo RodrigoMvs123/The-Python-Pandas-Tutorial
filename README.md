@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=LJTm8_IJGNY
 
 https://raw.githubusercontent.com/RodrigoMvs123/The-Python-Pandas-Tutorial/main/README.md
 
-
+https://github.com/RodrigoMvs123/The-Python-Pandas-Tutorial/blame/main/README.md
 
 https://pandas.pydata.org/
 Pandas
